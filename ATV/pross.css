@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-color: rgba(61, 213, 243, 0.672);
+  padding: 20px;
+  border-top: solid 4px black;
+  border-bottom: solid 4px black;
+  margin: 30px auto;
+}
+body {
+  background-image: url(back.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+form h1{
+    font-size: 30px;
+}
+input {
+  
+  padding: 10px;
+  border: solid 1px black;
+  border-radius: 10px;
+}
+form {
+  font-size: 25px;
+  border: solid 2px black;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 80px auto;
+  padding: 20px;
+  background-color: rgba(94, 228, 254, 0.541);
+  border-radius: 10px;
+}
+.botao {
+  background-color: rgba(61, 213, 243, 0.672);
+  padding: 10px;
+  border: solid 2px black;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.foot {
+  background-color: rgba(61, 213, 243, 0.672);
+  padding: 20px;
+  border-top: solid 4px black;
+  border-bottom: solid 4px black;
+  margin: 30px auto;
+}
+.resultado {
+  border: solid 2px black;
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 80px auto;
+  padding: 20px;
+  background-color: rgba(79, 212, 238, 0.677);
+  border-radius: 10px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.exe {
+  color: rgb(2, 213, 2);
+}
+.apr {
+  color: blue;
+}
+.rec {
+  color: yellow;
+}
+.rep {
+  color: red;
+}
