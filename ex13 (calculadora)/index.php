@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    
+    <h1 class="tit">Teste</h1>
     <div class="form">
         <h1>Calculadora:</h1>
         <form action="calc.php" method="get">

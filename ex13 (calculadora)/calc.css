@@ -8,6 +8,19 @@ body {
   background-size: cover;
   background-attachment: fixed;
 }
+.tit{
+   text-align: center;
+  font-size: 25px;
+  font-family: "Courier New", Courier, monospace;
+  border: solid 2px black;
+
+
+  width: 100%;
+  margin: 80px auto;
+  padding: 20px;
+  background-color: rgb(246, 247, 247);
+  border-radius: 10px;
+}
 .fade{
     animation: fadeIn 2s forwards;
 }
